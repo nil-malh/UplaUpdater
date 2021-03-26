@@ -1,0 +1,8 @@
+name: UplaUpdater
+version: 1.0
+author: Nil MALHOMME
+main: fr.nil.uplacraft.updater.Core
+commands:
+  checkforupdate:
+
+  updateserver:

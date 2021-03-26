@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UplaUpdater">
+    <output-path>/home/nilm/Documents/Uplacraft/testServer/plugins</output-path>
+    <root id="archive" name="UplaUpdater.jar">
+      <element id="module-output" name="UplaUpdater" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib" />
+    </root>
+  </artifact>
+</component>
